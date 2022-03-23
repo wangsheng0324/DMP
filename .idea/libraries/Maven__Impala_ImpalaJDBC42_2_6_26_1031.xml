@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: Impala:ImpalaJDBC42:2.6.26.1031">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/Impala/ImpalaJDBC42/2.6.26.1031/ImpalaJDBC42-2.6.26.1031.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/Impala/ImpalaJDBC42/2.6.26.1031/ImpalaJDBC42-2.6.26.1031-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/Impala/ImpalaJDBC42/2.6.26.1031/ImpalaJDBC42-2.6.26.1031-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
